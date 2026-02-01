@@ -110,7 +110,7 @@ st.divider()
 # ==================================================
 st.header("Selected Research Products")
 
-st.markdown("Peer-reviewed publications (in preparation")
+st.markdown("Peer-reviewed publications (in preparation)")
 
 ("Internship Research Project (Ongoing): Variability of the Agulhas Current along the ASCA transect")
 
@@ -151,3 +151,4 @@ st.markdown(
     "<center>© Asiphe Tsokotsiyana | Marine & Ocean Science Researcher</center>",
     unsafe_allow_html=True
 )
+
